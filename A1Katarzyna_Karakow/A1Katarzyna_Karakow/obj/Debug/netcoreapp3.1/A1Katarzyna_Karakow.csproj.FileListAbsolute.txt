@@ -1,0 +1,13 @@
+/Users/katekarakow/RiderProjects/A1Katarzyna_Karakow/A1Katarzyna_Karakow/bin/Debug/netcoreapp3.1/A1Katarzyna_Karakow.deps.json
+/Users/katekarakow/RiderProjects/A1Katarzyna_Karakow/A1Katarzyna_Karakow/bin/Debug/netcoreapp3.1/A1Katarzyna_Karakow.runtimeconfig.json
+/Users/katekarakow/RiderProjects/A1Katarzyna_Karakow/A1Katarzyna_Karakow/bin/Debug/netcoreapp3.1/A1Katarzyna_Karakow.runtimeconfig.dev.json
+/Users/katekarakow/RiderProjects/A1Katarzyna_Karakow/A1Katarzyna_Karakow/bin/Debug/netcoreapp3.1/A1Katarzyna_Karakow.dll
+/Users/katekarakow/RiderProjects/A1Katarzyna_Karakow/A1Katarzyna_Karakow/bin/Debug/netcoreapp3.1/A1Katarzyna_Karakow.pdb
+/Users/katekarakow/RiderProjects/A1Katarzyna_Karakow/A1Katarzyna_Karakow/obj/Debug/netcoreapp3.1/A1Katarzyna_Karakow.csproj.AssemblyReference.cache
+/Users/katekarakow/RiderProjects/A1Katarzyna_Karakow/A1Katarzyna_Karakow/obj/Debug/netcoreapp3.1/A1Katarzyna_Karakow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katekarakow/RiderProjects/A1Katarzyna_Karakow/A1Katarzyna_Karakow/obj/Debug/netcoreapp3.1/A1Katarzyna_Karakow.AssemblyInfoInputs.cache
+/Users/katekarakow/RiderProjects/A1Katarzyna_Karakow/A1Katarzyna_Karakow/obj/Debug/netcoreapp3.1/A1Katarzyna_Karakow.AssemblyInfo.cs
+/Users/katekarakow/RiderProjects/A1Katarzyna_Karakow/A1Katarzyna_Karakow/obj/Debug/netcoreapp3.1/A1Katarzyna_Karakow.csproj.CoreCompileInputs.cache
+/Users/katekarakow/RiderProjects/A1Katarzyna_Karakow/A1Katarzyna_Karakow/obj/Debug/netcoreapp3.1/A1Katarzyna_Karakow.dll
+/Users/katekarakow/RiderProjects/A1Katarzyna_Karakow/A1Katarzyna_Karakow/obj/Debug/netcoreapp3.1/A1Katarzyna_Karakow.pdb
+/Users/katekarakow/RiderProjects/A1Katarzyna_Karakow/A1Katarzyna_Karakow/obj/Debug/netcoreapp3.1/A1Katarzyna_Karakow.genruntimeconfig.cache
